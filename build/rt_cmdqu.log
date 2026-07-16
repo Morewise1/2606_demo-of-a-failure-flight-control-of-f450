@@ -1,0 +1,20 @@
+[RT] sysfs PWM unavailable on this platform, fallback mode enabled
+[RT] pwm-fallback=1640,1640,1640,1000
+[RT] pwm-fallback=1000,1000,2000,1000
+[RT] pwm-fallback=1640,1000,1640,1640
+[RT] pwm-fallback=1000,1000,1000,2000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] pwm-fallback=1000,1000,1000,1000
+[RT] exit=ok

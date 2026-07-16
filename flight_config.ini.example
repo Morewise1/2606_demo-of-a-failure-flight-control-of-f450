@@ -1,0 +1,7 @@
+[flight]
+angle_p=5.0
+rate_p=0.12
+rate_i=0.02
+rate_d=0.003
+throttle_expo=0.45
+deadzone=15
